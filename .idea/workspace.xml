@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28557a3f-23d8-4a03-bece-8d704a2eadf3" name="默认更改列表" comment="iphone 7 效果">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="26BchuzbuJjFom4LmzooorvbqUZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GOWORK\src\xmediaEmu\examples\imagevideo" />
+      <recent name="D:\GOWORK\src\xmediaEmu\pkg\emulator\libretro" />
+      <recent name="D:\GOWORK\src\xmediaEmu\pkg\emulator" />
+      <recent name="D:\GOWORK\src\xmediaEmu\pkg\emulator\game\games" />
+      <recent name="D:\GOWORK\src\xmediaEmu\pkg\emulator\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rizhi" />
+    <MESSAGE value="fix error" />
+    <MESSAGE value="add test log" />
+    <MESSAGE value="add log" />
+    <MESSAGE value="continue to fix" />
+    <MESSAGE value="fix log" />
+    <MESSAGE value="打开调试日志" />
+    <MESSAGE value="调整为20帧" />
+    <MESSAGE value="add image test" />
+    <MESSAGE value="去掉过度设计" />
+    <MESSAGE value="改用track测试" />
+    <MESSAGE value="测试代码" />
+    <MESSAGE value="测试代码，" />
+    <MESSAGE value="测试无法播放问题" />
+    <MESSAGE value="改用udp conn测试h264流" />
+    <MESSAGE value="test" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="what about text" />
+    <MESSAGE value="测试chromedp" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="jpeg文件" />
+    <MESSAGE value="不进行clear" />
+    <MESSAGE value="文字效果，中文" />
+    <MESSAGE value="all done" />
+    <MESSAGE value="iphone 7 效果" />
+    <option name="LAST_COMMIT_MESSAGE" value="iphone 7 效果" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+</project>
